@@ -1,0 +1,7 @@
+Sara  9  2  81
+Tomek  7  3  70
+Ewa  6  6  50
+Lena  5  5  50
+Anna  4  4  50
+Olek  3  7  30
+Bartek  1  4  20
